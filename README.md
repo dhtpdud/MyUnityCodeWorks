@@ -6,7 +6,7 @@ UI 오브젝트 ↔ Sprite 오브젝트 변환 기능 제공
 하나의 클래스처럼 사용할 수 있도록 하는 일종의 [어댑터 클래스](https://github.com/dhtpdud/DesignPatternStudy/wiki/%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4-(Adapter-pattern))
 
 ## [SYMonoSpineController](https://github.com/dhtpdud/MyWorks/blob/main/SYMonoSpineController.cs)
-Spine를 Animator처럼 사용하기위한 FSM
+Spine을 Animator처럼 사용하기위한 FSM
 
 ## [SYAudioSpectrum](https://github.com/dhtpdud/MyWorks/blob/main/SYAudioSpectrum.cs), [SYAudioVisualizer](https://github.com/dhtpdud/MyWorks/blob/main/SYAudioVisualizer.cs)
 SYAudioSpectrum: AudioSource 에서 스펙트럼 값을 추출하여 float 배열에 저장해둠  
