@@ -53,7 +53,7 @@ namespace JSchool.Modules.Common.OSY
         {
             Debug.Log("IOS버젼: "+SystemInfoUtils.IOSVersionMajorNumber);
             if(isBasedJob)
-                Debug.Log("잡기반");
+                Debug.Log("JOB기반");
             else
             
                 Debug.Log("단순반복");
