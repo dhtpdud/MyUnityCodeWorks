@@ -9,7 +9,7 @@ UI 오브젝트 ↔ Sprite 오브젝트 변환 기능 제공
 Spine을 Animator처럼 사용하기위한 FSM
 
 ## [SYAudioSpectrum](https://github.com/dhtpdud/MyWorks/blob/main/SYAudioSpectrum.cs), [SYAudioVisualizer](https://github.com/dhtpdud/MyWorks/blob/main/SYAudioVisualizer.cs)
-SYAudioSpectrum: AudioSource 에서 스펙트럼 값을 추출하여 float 배열에 저장해둠  
+SYAudioSpectrum: AudioSource 에서 오디오 스펙트럼 값을 추출하여 float 배열에 저장해둠  
 SYAudioVisualizer: SYAudioSpectrum객체에 저장되어있는 스펙트럼값을 이용하여 원하는 오브젝트의 크기를 변형시킴
 
 ## [SYInfiniteFlowSlider](https://github.com/dhtpdud/MyWorks/blob/main/SYInfiniteFlowSlider.cs)
