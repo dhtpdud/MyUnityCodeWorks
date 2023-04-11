@@ -1,5 +1,5 @@
 ## SYComponentConverter
-사용법: https://open.oss.navercorp.com/school/unity_dev_tips/issues/43
+UI 오브젝트 ↔ Sprite 오브젝트 변환 기능 제공
   
 ## SYComponentsCopier
 오브젝트의 모든 컨포넌트 정보를 복사, 붙여넣기 기능 제공
@@ -14,5 +14,6 @@
 - ObjectsToReplace - 바뀌는 오브젝트목록
 - KeepOriginalNames - 이름 유지 여부
 
-## 그외 스크립트
-기존 프레임워크 통합전 사용했던 툴
+## MonoSpineController
+해당 컨포넌트가 적용된 Spine오브젝트가 UI Spine이던 NonUISpine이던
+하나의 클래스처럼 사용할 수 있도록 하는 일종의 [어댑터 클래스](https://github.com/dhtpdud/DesignPatternStudy/wiki/%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4-(Adapter-pattern))
