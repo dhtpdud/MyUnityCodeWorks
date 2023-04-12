@@ -17,8 +17,8 @@ SYAudioVisualizer: SYAudioSpectrum객체에 저장되어있는 스펙트럼값�
 DoTween 사용
 
 ## [SYRigidbodyController](https://github.com/dhtpdud/MyWorks/blob/main/SYRigidbodyController.cs)
-Rigidbody 컴포넌트가 적용되어있는 오브젝트들이
-모바일의 자이로 센서에 따라 햅틱반응을 할 수 있도록 관리하는 컴포넌트 <sup>[옵저버 패턴](https://github.com/dhtpdud/DesignPatternStudy/wiki/%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4-(Observer-pattern))</sup>
+Rigidbody 컴포넌트가 적용되어있는 오브젝트들이 모바일의 자이로 센서에 따라 햅틱반응을 할 수 있도록 관리하는 컴포넌트 <sup>[옵저버 패턴](https://github.com/dhtpdud/DesignPatternStudy/wiki/%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4-(Observer-pattern))</sup>  
+**JOB을 이용하여 멀티쓰레딩으로 동작함.**
 
 ## [SYTrakingMeshUI](https://github.com/dhtpdud/MyWorks/blob/main/SYTrakingMeshUI.cs)
 UI의 Mesh를 특정 오브젝트의 위치에 따라 넓히거나 줄일 수 있는 기능 제공  
