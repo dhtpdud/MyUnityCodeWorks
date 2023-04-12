@@ -176,7 +176,7 @@ namespace JSchool.Modules.Common.OSY
                 _material = GetComponent<SkeletonGraphic>().materialForRendering;
             }
 
-            //이벤트록등록
+            //이벤트 등록
             AnimationState.Start += entry =>
             {
                 _scheduledEvent.Dispose();
