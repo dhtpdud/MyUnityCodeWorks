@@ -33,3 +33,17 @@ UI의 Mesh를 특정 오브젝트의 위치에 따라 넓히거나 줄일 수 �
 ## [SYUtil](https://github.com/dhtpdud/MyWorks/blob/main/SYUtil.cs)
 백터 각도, 효과음 재생, DelayCall, 코루틴에서 사용되는 YieldInstructionCache 등등  
 어느 클래스에서든 활용할 수 있는 코드 모음 <sup>[퍼사드 패턴](https://github.com/dhtpdud/DesignPatternStudy/wiki/%ED%8D%BC%EC%82%AC%EB%93%9C-%ED%8C%A8%ED%84%B4-(Facade-pattern))</sup>  
+
+
+# Editor 폴더 스크립트
+
+## [SYHierarchyOrganizing](https://github.com/dhtpdud/MyWorks/blob/main/Editor/SYHierarchyOrganizing.cs)
+이름에 같은 단어가 포함된 오브젝트들을 부모, 자식관계로 정리하는 기능 제공
+
+## [SYObjectPlanterButton](https://github.com/dhtpdud/MyWorks/blob/main/Editor/SYObjectPlanter.cs)
+원하는 오브젝트를 다른 오브젝트들 자식으로 한번에 복제하여 심을 수 있는 기능 제공
+
+## [SYPositionChaser](https://github.com/dhtpdud/MyWorks/blob/main/Editor/SYPositionChaser.cs)
+원하는 오브젝트들를 마우스를 따라다니게 하거나, 목표 오브젝트를 따라다니게 할 수 있는 기능 제공  
+이동중 흔들리는 효과를 주거나  
+목표 오브젝트와의 간격을 유지하게 할 수 있음
