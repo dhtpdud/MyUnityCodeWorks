@@ -1,3 +1,7 @@
+이전 엔테크서비스 업무당시 작업했던 코드로
+계약에 위배되지 않는 선에서 일부분의 코드만 Github으로 공개드립니다.
+
+
 ## [SYComponentConverter](https://github.com/dhtpdud/MyWorks/blob/main/SYComponentConverter.cs)
 UI 오브젝트 ↔ Sprite 오브젝트 변환 기능 제공
 
